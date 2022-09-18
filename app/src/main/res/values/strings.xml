@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBindingPartOne</string>
+    <string name="no_of_likes">Likes for this Post</string>
+</resources>
